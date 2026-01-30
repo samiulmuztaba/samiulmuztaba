@@ -1,10 +1,4 @@
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/SamiulMuztaba/SamiulMuztaba/main/github%20banner.png"  />
-</div>
-
-### 
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://codepen.io/samiulmuztaba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
@@ -58,6 +52,23 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SamiulMuztaba&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SamiulMuztaba&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+# 💫 About Me:
+🔭 I’m currently working on Skill-based Study Companion<br>👯 I’m looking to collaborate on Nothing<br>🤝 I’m looking for help with Nothing<br>🌱 I’m currently learning React & FastAPI Fullstack Web Dev<br>💬 Ask me about Python, React, HTML, CSS<br>⚡ Fun fact: I don't look like a programmer
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samiulmuztaba&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samiulmuztaba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samiulmuztaba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
