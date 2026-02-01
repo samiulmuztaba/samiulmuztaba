@@ -59,7 +59,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=samiulmuztaba&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samiulmuztaba&theme=dark&hide_border=false) <br> <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
