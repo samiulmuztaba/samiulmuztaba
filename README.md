@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Skill-based Study Companion<br>👯 I’m looking to collaborate on Nothing<br>🤝 I’m looking for help with Nothing<br>🌱 I’m currently learning React & FastAPI Fullstack Web Dev<br>💬 Ask me about Python, React, HTML, CSS<br>⚡ Fun fact: I don't look like a programmer
+🔭 I’m currently working on EduCoffee(making connection between tuition teachers and students in Bangladesh, replacing the old whatsapp/messanger groups system)<br>👯 I’m looking to collaborate on Nothing<br>🤝 I’m looking for help with Nothing<br>🌱 I’m currently learning React & FastAPI Fullstack Web Dev and making real money from Saas<br>💬 Ask me about Python, React, HTML, CSS<br>⚡ Fun fact: For example, nothing! <br> ➕ Other interests: Speedcubing, Chess, Reading Books(mostly classics, sci-fi and philosophy), Math, Physics
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
